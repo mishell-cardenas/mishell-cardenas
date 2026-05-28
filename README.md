@@ -1,6 +1,6 @@
 ## Hello! This is Mishell ✨
 
-Welcome to my github page. This is where I share my personal projects while I pursue a Master's degree in Computer Science at Northeastern University. Feel free to reach out through [Linkedin](https://www.linkedin.com/in/mishell-cardenas/) to collaborate or discuss new ideas.
+Welcome to my github page. This is where I share my personal projects while I pursue a Master's degree in Computer Science at Northeastern University. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/mishell-cardenas/) to collaborate or discuss new ideas.
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
