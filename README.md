@@ -1,6 +1,8 @@
 ## Hello! This is Mishell ✨
 
-Welcome to my github page. This is where I share my personal projects while I pursue a Master's degree in Computer Science at Northeastern University. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/mishell-cardenas/) to collaborate or discuss new ideas.
+I am currently a Computer Science graduate student at Northeastern University working as a Full Stack Engineering Co-op at Hometap. My background combines a business administration degree with hands-on software engineering experience, including work on full-stack web applications and AI-assisted systems.
+
+My recent projects span an AI-powered personal finance platform, a GitHub repository recommendation engine, and an operations management system for agricultural workflows. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/mishell-cardenas/) to collaborate or discuss new ideas!
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
